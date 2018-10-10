@@ -7,7 +7,7 @@ export const saveResult = (res) => {
         result: res
 
     }
-}
+};
 
 export const storeResult = (res) => {
 
